@@ -1,0 +1,16 @@
+{
+	"name": "pact-web-soon",
+	"description": "Pact Web Holding Page",
+	"version": "0.0.1",
+	"private": true,
+	"dependencies": {
+		"express": "4.x",
+		"serve-static": "1.x",
+		"compression": "1.x"
+	},
+	"devDependencies": {
+	},
+	"engines": {
+		"node": "0.10.x"
+	}
+}
